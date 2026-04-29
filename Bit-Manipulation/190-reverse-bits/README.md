@@ -30,5 +30,3 @@ Constraints:
 
     0 <= n <= 231 - 2
     n is even.
-
- 
